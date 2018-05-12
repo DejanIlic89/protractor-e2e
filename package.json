@@ -1,0 +1,25 @@
+{
+  "name": "protractor-e2e",
+  "version": "1.0.0",
+  "description": "Protractor framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DejanIlic89/protractor-e2e.git"
+  },
+  "keywords": [
+    "protractor"
+  ],
+  "author": "Dejan Ilic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DejanIlic89/protractor-e2e/issues"
+  },
+  "homepage": "https://github.com/DejanIlic89/protractor-e2e#readme",
+  "devDependencies": {
+    "protractor": "^5.3.2"
+  }
+}
